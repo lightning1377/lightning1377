@@ -39,10 +39,3 @@ I am the solo developer of the apps below, published to google playstore from pr
 
 Most of my professional work is **commercial and proprietary**, so the repositories are private.  
 This profile highlights **shipped products** and selected public experiments.
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/lightning1377
-- Google Play: https://play.google.com/store/apps/dev?id=5654232176513827644
