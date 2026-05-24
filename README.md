@@ -1,12 +1,13 @@
 # Hi, I'm Siavash 👋
 
-I’m a senior full-stack/mobile engineer focused on shipping production web and mobile applications, building reliable release pipelines, and bridging React/Capacitor apps with native Android/iOS capabilities.
+I'm a senior full-stack/mobile engineer focused on shipping production web and mobile applications, building reliable release pipelines, and bridging React/Capacitor apps with native Android/iOS capabilities.
 
-Currently based in Turkey and open to relocation to the Netherlands via IND-recognised sponsors.
+Currently in Turkey and open to remote opportunities or relocation to the Netherlands through recognised employers.
 
-* 📱 **Native-Bridge Expertise:** Engineered custom Capacitor plugins utilizing Java, Swift, and Objective-C to bypass webview limitations.
-* 🛠 **DevOps & Infrastructure:** Automated multi-branch Jenkins CI/CD execution setups saving significant manual release overhead.
-* ⚡ **Performance & Matrix Testing:** Sustained a 30% optimization in initial app load times and built E2E test frameworks validating 1,000+ dynamic configurations.
+- **Product Engineering:** Built and published Android products with React, Capacitor, analytics, widgets, encrypted sync, and Play Store release workflows.
+- **Native-Bridge Expertise:** Engineered custom Capacitor plugins using Java, Swift, and Objective-C to bypass webview limitations and integrate native mobile capabilities.
+- **Automation & Quality:** Automated multi-branch Jenkins release workflows and built E2E test systems covering complex remote-configured app states.
+- **Performance:** Built runtime tracking systems that helped sustain a 30% improvement in initial app load times.
 
 ---
 
