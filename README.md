@@ -1,6 +1,8 @@
 # Hi, I'm Siavash 👋
 
-I'm a **Senior Mobile & DevOps Engineer** focused on building high-performance hybrid/native applications, automating robust delivery pipelines, and architecting scalable AI integrations.
+I’m a senior full-stack/mobile engineer focused on shipping production web and mobile applications, building reliable release pipelines, and bridging React/Capacitor apps with native Android/iOS capabilities.
+
+Currently based in Turkey and open to relocation to the Netherlands via IND-recognised sponsors.
 
 * 📱 **Native-Bridge Expertise:** Engineered custom Capacitor plugins utilizing Java, Swift, and Objective-C to bypass webview limitations.
 * 🛠 **DevOps & Infrastructure:** Automated multi-branch Jenkins CI/CD execution setups saving significant manual release overhead.
@@ -16,7 +18,7 @@ I am the solo developer of the apps below, published to the Google Play Store fr
 * **Platform:** Hybrid Mobile (React & CapacitorJS)
 * **Store:** Google Play
 * **Link:** [https://play.google.com/store/apps/details?id=com.smoketracker.app](https://play.google.com/store/apps/details?id=com.smoketracker.app)
-* **Metrics:** 700+ organic downloads, 4.5+ star rating. Completely organic layout built without external ad frames.
+* **Metrics:** 700+ organic downloads, 4.5+ star rating, actively maintained. Built as a privacy-friendly product without intrusive ads.
 * **Status:** Actively maintained.
 
 ### Budget Tracker - Lite
@@ -35,7 +37,7 @@ While my enterprise repositories remain confidential, my core contributions at *
 * **Native Capacitor Bridges:** Programmed custom mobile platform wrappers in Java/XML (Android) and Swift/Objective-C (iOS) to serve low-overhead native loading screens and process data forwarding for complex ad mediation networks (AdMob & AppLovin MAX).
 * **Matrix E2E Test Workflows:** Developed a full end-to-end testing engine using Puppeteer capable of crawling and validating remote configuration variations over complex setups containing **1,000+ dynamic levels** (covering 90% of total app workflow states).
 * **Multi-Tenant AI Agent Platforms:** Designed and containerized (Docker / Nginx) a production Q&A platform combining a Python (FastAPI) core, LangChain data chunking, and ChromaDB vector embeddings. Features deep web crawling capabilities (via sitemaps, recursive tracking, or paths) to auto-generate context-aware site widgets.
-* **Sustained Performance Tracking:** Fabricated an isolated, runtime performance monitoring telemetry system to identify cross-version regressions, yielding a **30% sustained improvement** in application launch and initialization.
+* **Sustained Performance Tracking:** Built an isolated runtime performance monitoring system to detect cross-version regressions, contributing to a sustained 30% improvement in launch and initialization performance.
 
 ---
 
